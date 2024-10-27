@@ -1,5 +1,5 @@
 app working image 
-1.https://github.com/Talha-GITH/GoTkt-app/blob/main/assets/app%201.jpeg
+1.https://github.com/Talha-GITH/GoTkt-app/blob/main/assets/app%201.jpeg                                                            
 2.https://github.com/Talha-GITH/GoTkt-app/blob/main/assets/app%20image.jpeg
 3.https://github.com/Talha-GITH/GoTkt-app/blob/main/assets/app2.jpeg
 4.https://github.com/Talha-GITH/GoTkt-app/blob/main/assets/app3.jpeg
