@@ -1,8 +1,9 @@
 app working image 
 1.https://github.com/Talha-GITH/GoTkt-app/blob/main/assets/app%201.jpeg                                                            
 2.https://github.com/Talha-GITH/GoTkt-app/blob/main/assets/app%20image.jpeg
-3.https://github.com/Talha-GITH/GoTkt-app/blob/main/assets/app2.jpeg
-4.https://github.com/Talha-GITH/GoTkt-app/blob/main/assets/app3.jpeg
+                                                                                        
+3.https://github.com/Talha-GITH/GoTkt-app/blob/main/assets/app2.jpeg                                                                                 
+4.https://github.com/Talha-GITH/GoTkt-app/blob/main/assets/app3.jpeg                                                                                                                   
 > Why do I have a folder named ".expo" in my project?
 
 The ".expo" folder is created when an Expo project is started using "npx expo start" command.
