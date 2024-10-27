@@ -1,3 +1,8 @@
+app working image 
+1.https://github.com/Talha-GITH/GoTkt-app/blob/main/assets/app%201.jpeg
+2.https://github.com/Talha-GITH/GoTkt-app/blob/main/assets/app%20image.jpeg
+3.https://github.com/Talha-GITH/GoTkt-app/blob/main/assets/app2.jpeg
+4.https://github.com/Talha-GITH/GoTkt-app/blob/main/assets/app3.jpeg
 > Why do I have a folder named ".expo" in my project?
 
 The ".expo" folder is created when an Expo project is started using "npx expo start" command.
@@ -12,8 +17,3 @@ The ".expo" folder is created when an Expo project is started using "npx expo st
 
 No, you should not share the ".expo" folder. It does not contain any information that is relevant for other developers working on the project, it is specific to your machine.
 
-app working image 
-https://github.com/Talha-GITH/GoTkt-app/blob/main/assets/app%201.jpeg
-https://github.com/Talha-GITH/GoTkt-app/blob/main/assets/app%20image.jpeg
-https://github.com/Talha-GITH/GoTkt-app/blob/main/assets/app2.jpeg
-https://github.com/Talha-GITH/GoTkt-app/blob/main/assets/app3.jpeg
