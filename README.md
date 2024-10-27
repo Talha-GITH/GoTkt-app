@@ -12,6 +12,8 @@ The ".expo" folder is created when an Expo project is started using "npx expo st
 
 No, you should not share the ".expo" folder. It does not contain any information that is relevant for other developers working on the project, it is specific to your machine.
 
-Upon project creation, the ".expo" folder is already added to your ".gitignore" file.
-![alt text](<../assets/app 1.jpeg>) ![alt text](../assets/app2.jpeg) ![alt text](<../assets/app image.jpeg>) ![alt text](../assets/app3.jpeg)
+app working image 
 https://github.com/Talha-GITH/GoTkt-app/blob/main/assets/app%201.jpeg
+https://github.com/Talha-GITH/GoTkt-app/blob/main/assets/app%20image.jpeg
+https://github.com/Talha-GITH/GoTkt-app/blob/main/assets/app2.jpeg
+https://github.com/Talha-GITH/GoTkt-app/blob/main/assets/app3.jpeg
