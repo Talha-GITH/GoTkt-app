@@ -14,3 +14,4 @@ No, you should not share the ".expo" folder. It does not contain any information
 
 Upon project creation, the ".expo" folder is already added to your ".gitignore" file.
 ![alt text](<../assets/app 1.jpeg>) ![alt text](../assets/app2.jpeg) ![alt text](<../assets/app image.jpeg>) ![alt text](../assets/app3.jpeg)
+https://github.com/Talha-GITH/GoTkt-app/blob/main/assets/app%201.jpeg
